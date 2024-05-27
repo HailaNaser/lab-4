@@ -11,3 +11,7 @@ width.addEventListener("blur" , (e) => {
      box.style.height = e.target.value;
 
 })
+document.querySelector(".sub").addEventListener("click" , ()=> {
+     box.style.width = "30%";
+     box.style.height = "40%";
+}) 

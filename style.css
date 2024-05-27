@@ -1,7 +1,12 @@
+.container {
+    width: 80vw;
+    height: 70vh;
+}
+
 .box {
-    width: 30vw;
-    height: 30vh;
-    background-color: brown;
+    width: 30%;
+    height: 40%;
+    background-color: blue;
     margin: auto;
 }
 input {
